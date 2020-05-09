@@ -7,7 +7,7 @@ django-excel-response2==3.0.2
 django-extensions==1.5.9
 django-six==1.0.4
 djangorestframework==3.11.0
-gunicorn==19.4.5
+gunicorn==19.5.0
 numpy==1.16.6
 pandas==0.25.1
 psycopg2==2.7.3.1
